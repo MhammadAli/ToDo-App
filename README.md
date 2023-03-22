@@ -14,3 +14,8 @@ Using a todo app can provide numerous benefits to users, such as:
 3. The user can sort the tasks by their priorities to stay productive and efficient through the day.
 
 4. There are beautiful animation in the app.
+
+5. Utilizes Room database for robust and efficient data storage and management, with powerful querying capabilities.
+6. Built using the MVVM architecture pattern for scalable and maintainable code.
+7. Implements binding adapter for easy customization of data binding behavior.
+8. Leverages data binding for efficient UI updates when the underlying data changes.
